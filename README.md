@@ -40,18 +40,14 @@ To run the game locally, follow these steps:
 
 ## Screenshots
 
-![Start Screen](Screenshots/Newton's Law _1.png)
+![Start Screen](Screenshots/newtons-law-1.png)
 *Start Screen*
 
-![Gameplay](Screenshots/Newton's Law_2.png)
+![Gameplay](Screenshots/newtons-law-2.png)
 *In-game screenshot*
 
-![End Screen](Screenshots/Newton's Law_3.png)
+![End Screen](Screenshots/newtons-law-3.png)
 *End Screen*
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Future Improvements
 
