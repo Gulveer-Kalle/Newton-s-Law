@@ -34,7 +34,7 @@ To run the game locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/newtons-law-game.git
+    git clone https://github.com/Gulveer-Kalle/Newton-s-Law
     ```
 2. Open the `index.html` file in your browser to play the game.
 
