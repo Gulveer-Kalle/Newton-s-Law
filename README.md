@@ -40,13 +40,13 @@ To run the game locally, follow these steps:
 
 ## Screenshots
 
-![Start Screen](screenshots/Newton's Law_1.png)
+![Start Screen](Screenshots/Newton's Law _1.png)
 *Start Screen*
 
-![Gameplay](screenshots/Newton's Law_2.png)
+![Gameplay](Screenshots/Newton's Law_2.png)
 *In-game screenshot*
 
-![End Screen](screenshots/Newton's Law_3.png)
+![End Screen](Screenshots/Newton's Law_3.png)
 *End Screen*
 
 ## License
